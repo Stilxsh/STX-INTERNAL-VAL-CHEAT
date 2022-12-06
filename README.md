@@ -1,7 +1,7 @@
 # STX PRIVATE-EXTERNAL VALORANT CHEAT
 
 #### **CHANGE LOGS**
-//HERE
+### **Version V1.1**
 
 #### **HOW TO USE**
 //HERE
