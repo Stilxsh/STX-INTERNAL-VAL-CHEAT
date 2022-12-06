@@ -1,6 +1,5 @@
 # STX PRIVATE-EXTERNAL VALORANT CHEAT
-
-#### **CHANGE LOGS**
+#### **__CHANGE LOGS__**
 **Version V1.1**
 ###### [+] Added MISC
 ###### [+] Improved Injection Speed
