@@ -7,6 +7,7 @@
 ###### [+] Official Release
 
 #### **HOW TO USE**
+##### DISABLE YOUR ANTI-VIRUS
 ###### 1. Drag "drv.sys" into "sign.bat"
 ###### 2. Drag "drv.sys" into "hook.exe"
 ###### 3. Drag "drv.sys" into "signtoolexe"
