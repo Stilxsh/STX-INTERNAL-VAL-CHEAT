@@ -1,5 +1,8 @@
 # STX PRIVATE-INTERNAL VALORANT CHEAT
 #### **CHANGE LOGS**
+**Version V1.2**
+###### [+] Updated Cheat to Latest Valorant Patch
+###### [+] GUI Reworked
 **Version V1.1**
 ###### [+] Added MISC
 ###### [+] Improved Injection Speed
